@@ -4,6 +4,9 @@
 
 | Resource | Released | Tasks | Status | Description |
 | --- | --- | --- | --- | --- |
+| [hookdeck/webhook-skills / skills/reducto-webhooks/SKILL.md](https://github.com/hookdeck/webhook-skills/blob/3a0061bd0a9bb47bd610f672f93f74644295de86/skills/reducto-webhooks/SKILL.md) | 2026-11-27 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [databricks/databricks-agent-skills / skills/databricks-pipelines/SKILL.md](https://github.com/databricks/databricks-agent-skills/blob/f46843188a9de60a29c8b8a52aba992c6c1e1133/skills/databricks-pipelines/SKILL.md) | 2026-11-27 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
+| [akillness/jeo-skills / .agent-skills/hwp/SKILL.md](https://github.com/akillness/jeo-skills/blob/11965234aed634ceff61c36b0c9aa10e6a54f42f/.agent-skills/hwp/SKILL.md) | 2026-11-27 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [zc310/ofd / SKILL.md](https://github.com/zc310/ofd/blob/8584495ab09208882999dff0e8567db273e9658d/SKILL.md) | 2026-11-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [LeoYeAI/agent-master-skills / skills/openocr-skill/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/7de36622d808ebc0c472a6562e93c298a8ea368f/skills/openocr-skill/SKILL.md) | 2026-11-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
 | [LeoYeAI/agent-master-skills / skills/mineru-document-extractor/SKILL.md](https://github.com/LeoYeAI/agent-master-skills/blob/7de36622d808ebc0c472a6562e93c298a8ea368f/skills/mineru-document-extractor/SKILL.md) | 2026-11-18 | text-recognition | candidate | OCR or document workflow declared in SKILL.md. |
